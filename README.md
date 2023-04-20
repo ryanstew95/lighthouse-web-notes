@@ -6,7 +6,10 @@
 ### Table of Contents
 * [Week 1](/Week_1)
 * [Day 1](/Week_1/Day_1) 
+<<<<<<< HEAD
 
 ###### testing: adding this to remove it adding more to this line
 =======
 >>>>>>> parent of 54bccf3 (table of contents started)
+=======
+>>>>>>> parent of 34ffd33 (add to remove)
